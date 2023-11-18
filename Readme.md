@@ -1,0 +1,3 @@
+Money-Management This mini-project creates table and sub-table to store multiple values.
+All sub-tables are interlinked and share data. 
+The total sum are displayed to the user-interface using tkinter library in python.
